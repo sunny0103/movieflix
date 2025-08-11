@@ -1,16 +1,17 @@
 # movieflix
 
-A new Flutter project.
+A Netflix UI clone built with Flutter.(Not exact clone)
 
-## Getting Started
+## Feature
 
-This project is a starting point for a Flutter application.
+* Browse a popluar movie, now playing and coming soon
+* get more information about movie in detail page
+  * rate of movie
+  * genre
+  * overview
 
-A few resources to get you started if this is your first Flutter project:
+## Language and available device(emulator)
+Flutter - Android pixel 3
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
